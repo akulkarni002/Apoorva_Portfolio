@@ -1,16 +1,16 @@
-Apoorva Kulkarni
-Business Analysis & Data Analytics Portfolio
+## Apoorva Kulkarni
+### Business Analysis & Data Analytics Portfolio
 
 Information Systems & Business Administration graduate with experience in business analysis, dashboard development, reporting, process improvement, and data-driven decision-making.
 
 This portfolio showcases projects involving business analysis, revenue analytics, machine learning, and data visualization.
 
-About Me
+### About Me
 
 I am passionate about using data to identify patterns, solve business problems, and support better decision-making. My experience spans reporting, reconciliation, business process analysis, dashboard development, and analytical research.
 
-Portfolio Projects
-Sales & Revenue Analytics Dashboard
+### Portfolio Projects
+#### Sales & Revenue Analytics Dashboard
 
 Tools: Excel, Python, Pandas, Matplotlib
 
@@ -24,7 +24,8 @@ Variance Analysis
 Dashboard Development
 Business Intelligence
 Data Visualization
-BoatLoop Business Analysis Case Study
+
+#### BoatLoop Business Analysis Case Study
 
 Tools: Business Analysis Documentation, Requirements Engineering
 
@@ -38,7 +39,8 @@ Requirements Gathering
 Risk Assessment
 Process Modeling
 Documentation
-Data Mining & Machine Learning Research
+
+#### Data Mining & Machine Learning Research
 
 Tools: Python, Machine Learning Concepts, Analytical Research
 
@@ -77,12 +79,12 @@ Stakeholder Analysis
 Process Improvement
 Root Cause Analysis
 Documentation
-Resume
+### Resume
 
 Resume available within repository.
 
-Contact
+### Contact
 
-LinkedIn: INSERT LINK HERE
+LinkedIn: linkedin.com/in/apoorvakul
 
-Email: INSERT EMAIL HERE
+Email: apoorva.kulkarni.02@outlook.com
