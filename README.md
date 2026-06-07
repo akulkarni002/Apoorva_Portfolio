@@ -158,4 +158,5 @@ LinkedIn: linkedin.com/in/apoorvakul
 
 Email: apoorva.kulkarni.02@outlook.com
 
-GitHub: INSERT PROFILE LINK
+GitHub: https://github.com/akulkarni002/Apoorva_Portfolio
+
