@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Overview](Apoorva_Kulkarni_Sales_Revenue_Dashboard.pdf)
+![Dashboard Overview](sales_data_project.pdf)
 
 ---
 
