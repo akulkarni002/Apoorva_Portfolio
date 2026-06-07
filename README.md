@@ -1,90 +1,161 @@
-## Apoorva Kulkarni
-### Business Analysis & Data Analytics Portfolio
+# Apoorva Kulkarni
 
-Information Systems & Business Administration graduate with experience in business analysis, dashboard development, reporting, process improvement, and data-driven decision-making.
+## Business Analysis & Data Analytics Portfolio
 
-This portfolio showcases projects involving business analysis, revenue analytics, machine learning, and data visualization.
+Information Systems & Business Administration graduate with experience in business analysis, data analytics, reporting, dashboard development, database design, and process improvement.
 
-### About Me
+I am passionate about using data to identify patterns, solve business problems, and support better decision-making through analytical and evidence-based approaches.
 
-I am passionate about using data to identify patterns, solve business problems, and support better decision-making. My experience spans reporting, reconciliation, business process analysis, dashboard development, and analytical research.
+---
 
-### Portfolio Projects
-#### Sales & Revenue Analytics Dashboard
+## About Me
 
-Tools: Excel, Python, Pandas, Matplotlib
+My academic and project experience spans:
 
-Developed an interactive dashboard to analyze revenue performance, product category profitability, KPI metrics, and sales trends across $10M+ in revenue.
+* Business Analysis
+* Data Analytics
+* Dashboard Development
+* Database Design
+* Requirements Gathering
+* KPI Reporting
+* Process Improvement
+* Systems Analysis
+* SQL & Data Modeling
 
-Skills Demonstrated:
+This portfolio showcases projects that demonstrate analytical thinking, business problem-solving, technical documentation, and data-driven decision-making.
 
-Revenue Analysis
-KPI Reporting
-Variance Analysis
-Dashboard Development
-Business Intelligence
-Data Visualization
+---
 
-#### BoatLoop Business Analysis Case Study
+# Featured Projects
 
-Tools: Business Analysis Documentation, Requirements Engineering
+| Project                                    | Focus Area                  | Key Skills                                                                      |
+| ------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------- |
+| Sales & Revenue Analytics Dashboard        | Data Analytics              | Excel, Python, KPI Reporting, Revenue Analysis, Variance Analysis               |
+| BoatLoop Business Analysis Case Study      | Business Analysis           | Requirements Gathering, Stakeholder Analysis, Risk Assessment, Process Modeling |
+| Gamified Travel Management Database System | Database & Systems Analysis | SQL, Database Design, Data Modeling, Query Optimization                         |
 
-Conducted stakeholder analysis, requirements gathering, feasibility assessment, risk analysis, and software requirements specification for a boat-sharing platform.
+---
 
-Skills Demonstrated:
+## Sales & Revenue Analytics Dashboard
 
-Business Analysis
-Stakeholder Analysis
-Requirements Gathering
-Risk Assessment
-Process Modeling
-Documentation
+Developed an interactive dashboard to analyze over $10M in sales performance data across multiple product categories.
 
-#### Data Mining & Machine Learning Research
+### Key Highlights
 
-Tools: Python, Machine Learning Concepts, Analytical Research
+* Revenue Trend Analysis
+* KPI Reporting
+* Product Category Analysis
+* Variance Reporting
+* Business Recommendations
 
-Explored clustering techniques, decision trees, genetic algorithms, and AI-generated misinformation through applied machine learning and analytical research.
+### Skills Demonstrated
 
-Skills Demonstrated:
+* Excel
+* Python
+* Data Visualization
+* Business Intelligence
+* Revenue Analysis
 
-Machine Learning
-Data Mining
-Research & Analysis
-Technical Communication
-Python
-Technical Skills
-Data & Reporting
-Excel
-KPI Reporting
-Dashboard Development
-Revenue Analysis
-Variance Analysis
-Data Validation
-Analytics & Visualization
-Python
-Pandas
-Matplotlib
-Power BI (Learning)
-Tableau (Learning)
-Database & Querying
-SQL
-Querying
-Filtering
-Joins
-Data Extraction
-Business Analysis
-Requirements Gathering
-Stakeholder Analysis
-Process Improvement
-Root Cause Analysis
-Documentation
-### Resume
+📁 Project Folder: Sales-Revenue-Dashboard
 
-Resume available within repository.
+---
 
-### Contact
+## BoatLoop Business Analysis Case Study
+
+Conducted a complete business analysis engagement for a proposed boat-sharing platform.
+
+### Key Highlights
+
+* Stakeholder Analysis
+* Feasibility Assessment
+* Risk Analysis
+* Requirements Engineering
+* Use Case Modeling
+* Business Process Documentation
+
+### Skills Demonstrated
+
+* Business Analysis
+* Requirements Gathering
+* Stakeholder Management
+* Systems Analysis
+* Documentation
+
+📁 Project Folder: BoatLoop-Business-Analysis
+
+---
+
+## Gamified Travel Management Database System
+
+Designed and documented a scalable database solution for a travel management platform featuring gamification functionality.
+
+### Key Highlights
+
+* Database Design
+* SQL Development
+* ER Modeling
+* Query Optimization
+* Security Planning
+* Performance Testing
+
+### Skills Demonstrated
+
+* SQL
+* Database Design
+* Systems Analysis
+* Data Modeling
+* Technical Documentation
+
+📁 Project Folder: Gamified-Travel-Management-System
+
+---
+
+# Technical Skills
+
+## Data Analytics
+
+* Excel
+* SQL
+* Python
+* Pandas
+* Matplotlib
+* KPI Reporting
+* Variance Analysis
+* Dashboard Development
+
+## Business Analysis
+
+* Requirements Gathering
+* Stakeholder Analysis
+* Feasibility Studies
+* Risk Assessment
+* Process Improvement
+* Root Cause Analysis
+* Documentation
+
+## Database & Systems
+
+* Database Design
+* ER Modeling
+* Data Modeling
+* Query Optimization
+* Views
+* Triggers
+* Stored Procedures
+* System Design
+
+---
+
+# Resume
+
+A current copy of my resume is available within this repository.
+
+---
+
+# Contact
 
 LinkedIn: linkedin.com/in/apoorvakul
 
 Email: apoorva.kulkarni.02@outlook.com
+
+GitHub: INSERT PROFILE LINK
