@@ -1,8 +1,7 @@
-/* 
-===========================================================
+/*
 Gamified Travel Management Database System
 Sample SQL Queries and Database Objects
-===========================================================
+
 
 This SQL file demonstrates the core database structure for a 
 gamified travel tracking platform. The system stores users, 
@@ -11,12 +10,12 @@ destinations, completed trips, achievements, and challenges.
 It also includes sample queries, views, triggers, functions, 
 stored procedures, and indexes used for reporting, performance, 
 and gamification logic.
-*/
 
 
-/* =========================================================
-1. TABLE CREATION
-========================================================= */
+
+
+ 1. TABLE CREATION */
+
 
 /* Users Table
 Stores user profile details, total XP, level, join date, 
@@ -37,6 +36,7 @@ CREATE TABLE Users (
 Stores travel destination details, including category, 
 difficulty level, and XP value.
 */
+
 CREATE TABLE Destinations (
     DestinationID INT AUTO_INCREMENT PRIMARY KEY,
     Name VARCHAR(100) NOT NULL,
@@ -92,9 +92,7 @@ CREATE TABLE Challenges (
 );
 
 
-/* =========================================================
-2. SAMPLE QUERIES
-========================================================= */
+/* 2. SAMPLE QUERIES */
 
 /* Query 1: Find users with more than 5,000 XP.
 This helps identify highly engaged users.
@@ -152,9 +150,7 @@ DELETE FROM Trips
 WHERE TripID = 10;
 
 
-/* =========================================================
-3. VIEWS
-========================================================= */
+/* 3. VIEWS */
 
 /* Leaderboard View
 Ranks users based on TotalXP to support gamification.
@@ -185,9 +181,7 @@ JOIN Achievements
     ON UserAchievements.AchievementID = Achievements.AchievementID;
 
 
-/* =========================================================
-4. TRIGGERS, FUNCTIONS, AND STORED PROCEDURES
-========================================================= */
+/* 4. TRIGGERS, FUNCTIONS, AND STORED PROCEDURES */
 
 /* Trigger: Update user level based on XP.
 Automatically updates the user level when TotalXP changes.
@@ -259,9 +253,7 @@ BEGIN
 END;
 
 
-/* =========================================================
-5. PERFORMANCE OPTIMIZATION INDEXES
-========================================================= */
+/* 5. PERFORMANCE OPTIMIZATION INDEXES */
 
 /* Speeds up user lookup by email. */
 CREATE INDEX idx_users_email 
@@ -283,9 +275,7 @@ CREATE INDEX idx_users_xp_level
 ON Users(TotalXP, Level);
 
 
-/* =========================================================
-6. PYTHON DATA GENERATION REFERENCE
-===========================================================
+/* 6. PYTHON DATA GENERATION REFERENCE
 
 The project also used Python and the Faker library to generate 
 sample test data for database testing.
@@ -300,7 +290,4 @@ Generated data included:
 This supported scalability testing and helped validate the database 
 design under larger data volumes.
 
-===========================================================
-End of File
-===========================================================
 */
