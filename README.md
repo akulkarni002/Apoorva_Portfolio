@@ -148,7 +148,9 @@ Designed and documented a scalable database solution for a travel management pla
 
 # Resume
 
-A current copy of my resume is available within this repository.
+A current copy of my resume can be accessed below:
+
+📄 **[Download Resume](./Apoorva_Kulkarni_Resume.pdf)**
 
 ---
 
